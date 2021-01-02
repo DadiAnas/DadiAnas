@@ -81,7 +81,7 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/D
 ---
 ### You can checkout my blogs :loudspeaker: 
 
-[![Big Data Technologies resume](https://www.linkedin.com/pulse/big-data-technologies-resume-anas-dadi)]
+[Big Data Technologies resume](https://www.linkedin.com/big-data-technologies-resume-anas-dadi)
 
 
 ---
