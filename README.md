@@ -26,7 +26,7 @@ I am a Big Data and Cloud Computing Engineering Student in  the Higher Normal Sc
  
  🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> Google Cloud Platform
  
- 👯 I’m looking to collaborate for **Internship**.
+ 👯 I’m looking for **Internship**.
  
  
  💬 Ask me about Big Data, Data Science, Cloud, DevOps, Full Stack Development and any Tech-related stuff.
