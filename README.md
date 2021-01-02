@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/DadiAnas/DadiAnas/main/Frame%202.png?token=AJYFOKNSJJXQKXH6SUNZ2Y277EYQ6" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-I am a Big Data and Cloud Computing Engineering Student in  the Higher Normal School of Technical Education of Mohammedia (ENSET-M) in Morocco, who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:
+I am a Big Data and Cloud Computing Engineering Student in  the Higher Normal School of Technical Education of Mohammedia (ENSET-M) in Morocco, who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about AI. :wink:
  
  🔭 I’m currently working on AI/BigData Project **AI-CHATBOT: AI-based System for relaxin in Covid19 period**.
  
