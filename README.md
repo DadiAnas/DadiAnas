@@ -32,7 +32,7 @@ I am a Big Data and Cloud Computing Engineering Student in  the Higher Normal Sc
  💬 Ask me about Big Data, Data Science, Cloud, DevOps, Full Stack Development and any Tech-related stuff.
 
 
-![Profile views](https://gpvc.arturio.dev/Souravdey777)  <img src="https://img.shields.io/github/followers/Souravdey777?label=Follow" style=" float:left, margin-right:10px" />
+![Profile views](https://gpvc.arturio.dev/Souravdey777) 
 
 
 ---
