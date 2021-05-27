@@ -40,6 +40,20 @@ I am a Big Data and Cloud Computing Engineering Student in  the Higher Normal Sc
 
 ### Tech & Tools Preference
 
+<a href="https://sourcerer.io/dadianas"><img src="https://img.shields.io/badge/Python-18%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/dadianas"><img src="https://img.shields.io/badge/CSS-16%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/dadianas"><img src="https://img.shields.io/badge/JavaScript-13%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/dadianas"><img src="https://img.shields.io/badge/SQL-12%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/dadianas"><img src="https://img.shields.io/badge/TypeScript-12%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/dadianas"><img src="https://img.shields.io/badge/Java-11%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/dadianas"><img src="https://img.shields.io/badge/HTML-9%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/dadianas"><img src="https://img.shields.io/badge/DOS Batch-7%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/dadianas"><img src="https://img.shields.io/badge/Dart-5%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/dadianas"><img src="https://img.shields.io/badge/R-3%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/dadianas"><img src="https://img.shields.io/badge/Gradle-2%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/dadianas"><img src="https://img.shields.io/badge/Kotlin-1%20commits-orange.svg" alt=""></a>
+
+
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
@@ -67,7 +81,7 @@ I am a Big Data and Cloud Computing Engineering Student in  the Higher Normal Sc
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DadiAnas&show_icons=true&hide_border=true)
 
 Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/DadiAnas)
-<a href="https://sourcerer.io/dadianas"><img src="https://img.shields.io/badge/Python-18%20commits-orange.svg" alt=""></a>
+
 
 ---
 
