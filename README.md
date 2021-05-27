@@ -22,14 +22,14 @@ Here are some ideas to get you started:
 
 I am a Big Data and Cloud Computing Engineering Student in  the Higher Normal School of Technical Education of Mohammedia (ENSET-M) in Morocco, who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about AI. :wink:
  
- 🔭 I’m currently working on AI/BigData Project **AI-CHATBOT: AI-based System for relaxin in Covid19 period**.
+ 🔭 I’m currently working on AI/BigData Project **Monitoring and supervising/reporting BI Project**.
  
- 🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> Google Cloud Platform
+ 🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> Kubernetes
  
- 👯 I’m looking for **Internship**.
+ 👯 I’m looking for **Work**.
  
  
- 💬 Ask me about Big Data, Data Science, Cloud, DevOps, Full Stack Development and any Tech-related stuff.
+ 💬 Ask me about Big Data, BI, Monitoring tools, Data Science, Cloud, DevOps, Full Stack Development and any Tech-related stuff.
 
 
 ![Profile views](https://gpvc.arturio.dev/Souravdey777) 
@@ -67,6 +67,7 @@ I am a Big Data and Cloud Computing Engineering Student in  the Higher Normal Sc
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DadiAnas&show_icons=true&hide_border=true)
 
 Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/DadiAnas)
+<a href="https://sourcerer.io/dadianas"><img src="https://img.shields.io/badge/Python-18%20commits-orange.svg" alt=""></a>
 
 ---
 
