@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DadiAnas/DadiAnas/main/Frame%202.png?token=AJYFOKNSJJXQKXH6SUNZ2Y277EYQ6" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://raw.githubusercontent.com/DadiAnas/DadiAnas/main/Frame%202.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
 I am a Big Data and Cloud Computing Engineering Student in  the Higher Normal School of Technical Education of Mohammedia (ENSET-M) in Morocco, who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about AI. :wink:
