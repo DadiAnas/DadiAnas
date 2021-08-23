@@ -110,5 +110,5 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 :star: From [DadiAnas](https://github.com/dadianas)
 
 📫 How to reach me: 
-[linkedin]: https://www.linkedin.com/in/dadianas/
-[dadi.anas@hotmail.fr]: mailto:dadi.anas@hotmail.fr
+[Linkedin]: https://www.linkedin.com/in/dadianas/
+[Email]: dadi.anas@hotmail.fr
