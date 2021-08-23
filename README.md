@@ -20,16 +20,16 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/DadiAnas/DadiAnas/main/Frame%202.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-I am a Big Data and Cloud Computing Engineering Student in  the Higher Normal School of Technical Education of Mohammedia (ENSET-M) in Morocco, who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about AI. :wink:
+I am a Big Data and Cloud Computing Engineer, who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about AI. :wink: I love automating my daily basis using scripts 
  
- 🔭 I’m currently working on AI/BigData Project **Monitoring and supervising/reporting BI Project**.
+ 🔭 I’m currently working on DevOps Project **Automating CI/CD Lifecycle**.
  
  🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> Kubernetes and Helm packaging
  
- 👯 I’m looking for **Work**.
+ 👯 I’m looking for **opportunities**.
  
  
- 💬 Ask me about Big Data, BI, Monitoring tools, Data Science, Cloud, DevOps, Full Stack Development and any Tech-related stuff.
+ 💬 Ask me about DevOps, Big Data, BI, Monitoring tools, Data Science, Cloud, Full Stack Development and any Tech-related stuff.
 
 
 ![Profile views](https://gpvc.arturio.dev/Souravdey777) 
@@ -87,6 +87,8 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/D
 
 
 ### You can find in me in the web 🌍
+
+[website]: https://dadianas.github.io/dadianas/
 [<img align="left" alt="dadianas" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="dadianas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
@@ -107,5 +109,6 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 
 :star: From [DadiAnas](https://github.com/dadianas)
 
-[website]: https://dadianas.github.io/dadianas/
+📫 How to reach me: 
 [linkedin]: https://www.linkedin.com/in/dadianas/
+[dadi.anas@hotmail.fr]: mailto:dadi.anas@hotmail.fr
