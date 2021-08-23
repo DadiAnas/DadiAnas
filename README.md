@@ -88,7 +88,6 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/D
 
 ### You can find in me in the web 🌍
 
-[website]: https://dadianas.github.io/dadianas/
 [<img align="left" alt="dadianas" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="dadianas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
@@ -110,5 +109,7 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 :star: From [DadiAnas](https://github.com/dadianas)
 
 📫 How to reach me: 
+
 [Linkedin]: https://www.linkedin.com/in/dadianas/
 [Email]: dadi.anas@hotmail.fr
+[website]: https://dadianas.github.io/dadianas/
