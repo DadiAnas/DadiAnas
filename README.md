@@ -88,8 +88,6 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/D
 
 ### You can find in me in the web 🌍
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
 [<img align="left" alt="dadianas" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="dadianas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
