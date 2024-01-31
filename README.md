@@ -1,115 +1,114 @@
-<!--
-**DadiAnas/DadiAnas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Hey, I'm Anas Dadi</h1>
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DadiAnas/DadiAnas/main/Frame%202.png" alt="Anas Dadi Intro">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Hey Anas here 👋
+<h3 align="center">DevOps & Cloud Engineer | Big Data Enthusiast | Tech Enthusiast</h3>
 
 ---
+
+🌟 **About Me:**
+
+I'm Anas Dadi, a DevOps and Cloud Engineer with a passion for computer science and ethical hacking. I hold a degree in Computer Science, specializing in Big Data and Cloud Computing. My educational journey has equipped me with a strong foundation in theoretical knowledge, which I have successfully applied to real-world projects.
+
+📚 **Educational Background:**
+
+After completing my baccalaureate in Mathematics, I pursued studies in Physics and Engineering Science, eventually earning an engineering degree in Computer Science from ENSET Mohammedia. My academic pursuits have provided me with a comprehensive understanding of various domains, including DevOps, Big Data, web/mobile design and development, data science, and UI/UX.
+
+🚀 **Work Experience:**
+
+I have gained valuable experience in different roles that have allowed me to become well-versed in the DevOps lifecycle. My expertise lies in cloud computing, with a focus on AWS, as well as other cloud providers such as GCP and Azure. I have led initiatives to migrate legacy infrastructure to the cloud, managed Kubernetes deployments, and established CI/CD pipelines.
+
+🔧 **Technical Competence:**
+
+My technical skills include proficiency in languages like Python, Bash, Java, JavaScript, Golang, and Node.js. I am adept at using containerization technologies such as Docker and orchestration tools like Kubernetes and Helm. I have also worked extensively with automation tools like Terraform and Ansible for infrastructure provisioning and configuration management.
+
+🚀 **Project Implementation & Management:**
+
+One of my notable achievements was leading the migration of infrastructure from vSphere to Kubernetes clusters deployed in LXD hypervisors. This project significantly improved scalability and robustness. Additionally, I have deployed various DevOps tools in Kubernetes using Terraform, strengthening our tool ecosystem and enhancing infrastructure management.
+
+🔒 **Database Management & Security:**
+
+I have experience in managing various databases, ensuring high availability, security, and scalability. I've used tools like HashiCorp Vault and Ansible-vault for secret management and conducted security testing using SonarQube, Trivy, and OWASP Zap to ensure code quality and identify vulnerabilities.
+
+🤖 **Scripting & Automation:**
+
+Automation is a key aspect of my work, and I've developed scripts in Python, Bash, and Golang to optimize repetitive tasks. Configuration management with Ansible has been crucial for provisioning, configuration, and deployment automation.
+
+📊 **Monitoring & Reporting:**
+
+I've implemented monitoring and logging solutions such as Loki, Prometheus, and Grafana to ensure continuous system health monitoring. Additionally, I've configured storage using solutions like Rook Ceph, GlusterFS, and Longhorn for high-performance distributed storage.
+
+🌐 **Soft Skills & Languages:**
+
+In addition to technical skills, I value soft skills like flexibility, creativity, and patience. I have experience in effective team management and am multilingual, fluent in English, French, and Arabic.
+
+🤝 **Open to Collaborations:**
+
+I'm enthusiastic about collaborating on innovative projects and exploring new technologies. Feel free to reach out to me through LinkedIn or Email.
+
+📫 **How to Reach Me:**
+
+- LinkedIn: [Anas Dadi](https://www.linkedin.com/in/dadianas/)
+- Email: [dadi.anas@hotmail.fr](mailto:dadi.anas@hotmail.fr)
+
+---
+
+<h2 align="center">Tech Stack & Tools</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DadiAnas/DadiAnas/main/Frame%202.png" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://img.shields.io/badge/Python-18%20commits-orange.svg" alt="Python">
+  <img src="https://img.shields.io/badge/CSS-16%20commits-orange.svg" alt="CSS">
+  <img src="https://img.shields.io/badge/JavaScript-13%20commits-orange.svg" alt="JavaScript">
+  <img src="https://img.shields.io/badge/SQL-12%20commits-orange.svg" alt="SQL">
+  <img src="https://img.shields.io/badge/TypeScript-12%20commits-orange.svg" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Java-11%20commits-orange.svg" alt="Java">
+  <img src="https://img.shields.io/badge/HTML-9%20commits-orange.svg" alt="HTML">
+  <img src="https://img.shields.io/badge/DOS%20Batch-7%20commits-orange.svg" alt="DOS Batch">
+  <img src="https://img.shields.io/badge/Dart-5%20commits-orange.svg" alt="Dart">
+  <img src="https://img.shields.io/badge/R-3%20commits-orange.svg" alt="R">
+  <img src="https://img.shields.io/badge/Gradle-2%20commits-orange.svg" alt="Gradle">
+  <img src="https://img.shields.io/badge/Kotlin-1%20commits-orange.svg" alt="Kotlin">
 </p>
 
-I am a Big Data and Cloud Computing Engineer, who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about AI. :wink: I love automating my daily basis using scripts 
- 
- 🔭 I’m currently working on DevOps Project **Automating CI/CD Lifecycle**.
- 
- 🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> Kubernetes and Helm packaging
- 
- 👯 I’m looking for **opportunities**.
- 
- 
- 💬 Ask me about DevOps, Big Data, BI, Monitoring tools, Data Science, Cloud, Full Stack Development and any Tech-related stuff.
-
-
-![Profile views](https://gpvc.arturio.dev/Souravdey777) 
-
+<p align="center">
+  <!-- Add your technology badges here -->
+</p>
 
 ---
 
+<h2 align="center">GitHub Stats</h2>
 
-### Tech & Tools Preference
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DadiAnas&show_icons=true&hide_border=true" alt="GitHub Stats">
+</p>
 
-<a href="https://sourcerer.io/dadianas"><img src="https://img.shields.io/badge/Python-18%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/dadianas"><img src="https://img.shields.io/badge/CSS-16%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/dadianas"><img src="https://img.shields.io/badge/JavaScript-13%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/dadianas"><img src="https://img.shields.io/badge/SQL-12%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/dadianas"><img src="https://img.shields.io/badge/TypeScript-12%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/dadianas"><img src="https://img.shields.io/badge/Java-11%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/dadianas"><img src="https://img.shields.io/badge/HTML-9%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/dadianas"><img src="https://img.shields.io/badge/DOS Batch-7%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/dadianas"><img src="https://img.shields.io/badge/Dart-5%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/dadianas"><img src="https://img.shields.io/badge/R-3%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/dadianas"><img src="https://img.shields.io/badge/Gradle-2%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/dadianas"><img src="https://img.shields.io/badge/Kotlin-1%20commits-orange.svg" alt=""></a>
-
-
-<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
-<img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
-<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white">
-<img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">
-<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-<img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
-
-
-### Other Languages 
-<img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
-<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
+Check out more detailed stats on [Sourcerer](https://sourcerer.io/DadiAnas).
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DadiAnas&show_icons=true&hide_border=true)
+<h2 align="center">Find Me on the Web</h2>
 
-Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/DadiAnas)
-
-
----
-
-
-### You can find in me in the web 🌍
-
-[<img align="left" alt="dadianas" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="dadianas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br/>
-
-
----
-### You can checkout my blogs :loudspeaker: 
-
-[Big Data Technologies resume](https://www.linkedin.com/pulse/big-data-technologies-resume-anas-dadi/)
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/dadianas/">
+    <img alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+  </a>
+  <a href="https://www.linkedin.com/in/dadianas/">
+    <img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+</p>
 
 ---
 
-Let's connect 👨‍💻 and forge the future together.😁✌
+<h2 align="center">Check Out My Blogs</h2>
 
-**Check the Repositories and don't forget to give a star.** 👇
+- [Big Data Technologies Resume](https://www.linkedin.com/pulse/big-data-technologies-resume-anas-dadi/)
 
-:star: From [DadiAnas](https://github.com/dadianas)
+Let's connect and shape the future together! 😁✌
 
-📫 How to reach me: 
+**Don't forget to explore my repositories and give them a star!** 👇
 
-[Linkedin]: https://www.linkedin.com/in/dadianas/
-[Email]: dadi.anas@hotmail.fr
-[website]: https://dadianas.github.io/dadianas/
+:star: From [Anas Dadi](https://github.com/dadianas)
+
+</div>
