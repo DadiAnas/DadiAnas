@@ -58,23 +58,6 @@ I'm enthusiastic about collaborating on innovative projects and exploring new te
 
 ---
 
-<h2 align="center">Tech Stack & Tools</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-18%20commits-orange.svg" alt="Python">
-  <img src="https://img.shields.io/badge/CSS-16%20commits-orange.svg" alt="CSS">
-  <img src="https://img.shields.io/badge/JavaScript-13%20commits-orange.svg" alt="JavaScript">
-  <img src="https://img.shields.io/badge/SQL-12%20commits-orange.svg" alt="SQL">
-  <img src="https://img.shields.io/badge/TypeScript-12%20commits-orange.svg" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Java-11%20commits-orange.svg" alt="Java">
-  <img src="https://img.shields.io/badge/HTML-9%20commits-orange.svg" alt="HTML">
-  <img src="https://img.shields.io/badge/DOS%20Batch-7%20commits-orange.svg" alt="DOS Batch">
-  <img src="https://img.shields.io/badge/Dart-5%20commits-orange.svg" alt="Dart">
-  <img src="https://img.shields.io/badge/R-3%20commits-orange.svg" alt="R">
-  <img src="https://img.shields.io/badge/Gradle-2%20commits-orange.svg" alt="Gradle">
-  <img src="https://img.shields.io/badge/Kotlin-1%20commits-orange.svg" alt="Kotlin">
-</p>
-
 <p align="center">
   <!-- Add your technology badges here -->
 </p>
@@ -112,4 +95,3 @@ Let's connect and shape the future together! 😁✌
 
 :star: From [Anas Dadi](https://github.com/dadianas)
 
-</div>
