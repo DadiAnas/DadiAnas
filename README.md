@@ -1,9 +1,5 @@
 <h1 align="center">👋 Hey, I'm Anas Dadi</h1>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/DadiAnas/DadiAnas/main/Frame%202.png" alt="Anas Dadi Intro">
-</div>
-
 <h3 align="center">DevOps & Cloud Engineer | Big Data Enthusiast | Tech Enthusiast</h3>
 
 ---
@@ -84,15 +80,14 @@ I'm enthusiastic about collaborating on innovative projects and exploring new te
   <img src="https://github-readme-stats.vercel.app/api?username=DadiAnas&show_icons=true&hide_border=true" alt="GitHub Stats">
 </p>
 
-Check out more detailed stats on [Sourcerer](https://sourcerer.io/DadiAnas).
 
 ---
 
 <h2 align="center">Find Me on the Web</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dadianas/">
-    <img alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+  <a href="https://anas.dadispace.com">
+    <img alt="dadispace" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
   </a>
   <a href="https://www.linkedin.com/in/dadianas/">
     <img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
