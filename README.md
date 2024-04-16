@@ -58,37 +58,11 @@ I'm enthusiastic about collaborating on innovative projects and exploring new te
 
 ---
 
-<p align="center">
-  <!-- Add your technology badges here -->
-</p>
-
----
-
-<h2 align="center">GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DadiAnas&show_icons=true&hide_border=true" alt="GitHub Stats">
-</p>
-
----
-
-<h2 align="center">Find Me on the Web</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/dadianas/">
-    <img alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-  </a>
-  <a href="https://www.linkedin.com/in/dadianas/">
-    <img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>
-</p>
-
----
-
 <h2 align="center">Check Out My Blogs</h2>
 
 - [Big Data Technologies Resume](https://www.linkedin.com/pulse/big-data-technologies-resume-anas-dadi/)
-
+- [Interacting with Cyberwatch API using Ansible to manage agentless servers](https://www.linkedin.com/pulse/interacting-cyberwatch-api-using-ansible-manage-servers-anas-dadi-/)
+  
 Let's connect and shape the future together! 😁✌
 
 **Don't forget to explore my repositories and give them a star!** 👇
