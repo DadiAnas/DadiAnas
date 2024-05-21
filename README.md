@@ -47,8 +47,6 @@ pipelines), GitHub Actions, Looker Studio, AWS QuickSight, Azure Power BI, Git, 
 
 #### Coral-io/icade.fr (DevOps/SRE Consultant)
 
-_**Duration:**_ 17 August 2022 - 31 August 2023
-
 _Roles and Responsibilities:_
 - Designed and managed CI/CD systems using GitLab CI and Jenkins for regular deployments.
 - Containerized various web projects (FastApi, Django, Flask, Laravel Symphony).
@@ -79,7 +77,6 @@ _Technical Environment:_ Python, Bash, Golang, Kubernetes administration, Vault,
 
 #### Avito.ma / Frontier Digital Ventures (DevOps/Cloud Engineer)
 
-_**Duration:**_ 01 September 2021 - 01 August 2022
 
 _Roles and Responsibilities:_
 - Managed AWS infrastructures using Infrastructure as Code tools such as Terraform and CloudFormation.
@@ -105,7 +102,6 @@ _Technical Environment:_ AWS, Python, Bash, AWS (Production administration; EKS,
 
 #### DXC Technology
 
-_**Duration:**_ 15 February 2021 - 15 June 2021
 
 _Project:_ Implementation of IT Monitoring and Reporting BI Solution
 
@@ -121,15 +117,11 @@ _Projects:_
 
 #### ENSET Mohammedia
 
-_**Duration:**_ 1 October 2020 - 1 December 2020
-
 _Projects:_
 - Developed an AI Chatbot using Python (Flask, TensorFlow) on Backend, Heroku for deployment, and React-Native for mobile development.
 - Designed and developed a web stock management application using NestJS, ReactJS, and Figma.
 
 #### Abboud Foodstuff Trading
-
-_**Duration:**_ 01 July 2020 - 31 August 2020
 
 _Projects:_ Developed a web stock management application using NestJS, ReactJS, and Figma.
 
