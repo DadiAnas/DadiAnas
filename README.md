@@ -8,9 +8,7 @@
 
 <p align="center">
   <a href="https://dadianas.com/">Portfolio</a> ·
-  <a href="https://dadianas.com/resume.pdf?v=2026-10-12">Résumé</a> ·
-  <a href="https://www.linkedin.com/in/dadianas/">LinkedIn</a> ·
-  <a href="mailto:dadi.anas@hotmail.fr">Email</a>
+  <a href="https://www.linkedin.com/in/dadianas/">LinkedIn</a>
 </p>
 
 ## A little about me
@@ -37,8 +35,6 @@ I'm an engineer who enjoys the whole journey from architecture to production: de
 | **Data & AI** | Apache Airflow, Kafka, Spark, Hadoop, MLflow, Kubeflow, TensorFlow, PyTorch, computer vision |
 | **Code & storage** | Python, Bash, PowerShell, Go, Java, JavaScript / Node.js, React, Spring Boot, FastAPI, Flask, PostgreSQL, Redis, MongoDB, Elasticsearch, Ceph, Longhorn, OpenEBS, S3, MinIO |
 
-This is a selection, not the full inventory. My [résumé](https://dadianas.com/resume.pdf?v=2026-10-12) has the complete experience and technology details.
-
 ## Background
 
 I earned an **engineering degree in Computer Science, specializing in Big Data and Cloud Computing** at ENSET Mohammedia, after preparatory studies in physics and engineering science. My additional training includes Hadoop, advanced Python, GCP data lakes and streaming analytics, Huawei security and AI, and TCF French.
@@ -47,4 +43,4 @@ I speak **Arabic (native), French (advanced), and English (advanced)**. I'm base
 
 ## Let's connect
 
-If you're building a platform that needs to be reliable, secure, and easy to operate, I'd be glad to talk. Reach me on [LinkedIn](https://www.linkedin.com/in/dadianas/) or by [email](mailto:dadi.anas@hotmail.fr).
+If you're building a platform that needs to be reliable, secure, and easy to operate, I'd be glad to talk. Reach me on [LinkedIn](https://www.linkedin.com/in/dadianas/).
