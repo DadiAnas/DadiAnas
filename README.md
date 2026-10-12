@@ -1,83 +1,42 @@
-<h1 align="center">👋 Hey, I'm Anas Dadi</h1>
+# Anas Dadi
 
-<h3 align="center">DevSecOps/SRE Engineer | Cloud Architect | Big Data Enthusiast | Tech Enthusiast</h3>
+**DevSecOps / SRE Engineer · Cloud Architect · Big Data Engineer**
 
----
-🌟 **About Me:**
+Paris, France
 
-I'm Anas Dadi, a DevSecOps, SRE and Cloud Engineer with a passion for computer science and ethical hacking. I hold a degree in Computer Science, specializing in Big Data and Cloud Computing. My educational journey has equipped me with a strong foundation in theoretical knowledge, which I have successfully applied to real-world projects.
+I build and operate reliable, secure platforms across cloud and on-premises environments. My work spans multicloud architecture, Kubernetes, infrastructure as code, CI/CD, production incident response, observability, security, and data engineering. I currently work at BNP Paribas on infrastructure and orchestration.
 
-📚 **Educational Background:**
+[Portfolio](https://dadianas.com/) · [Full résumé (PDF)](https://dadianas.com/resume.pdf?v=2026-10-12) · [LinkedIn](https://www.linkedin.com/in/dadianas/) · [Email](mailto:dadi.anas@hotmail.fr)
 
-After completing my baccalaureate in Mathematics, I pursued studies in Physics and Engineering Science, eventually earning an engineering degree in Computer Science from ENSET Mohammedia. My academic pursuits have provided me with a comprehensive understanding of various domains, including DevOps, Big Data, web/mobile design and development, data science, and UI/UX.
+## Experience
 
-🚀 **Work Experience:**
+- **BNP Paribas — DevOps / SRE, Infrastructure & Orchestration Expert** (Aug 2024–present): Multicloud orchestration across IBM Cloud, AWS, and Azure; highly available Kubernetes, Terraform and Ansible, Airflow workflows, observability, security pipelines, and N3/L3 incident response.
+- **Coral-io / Stellantis — Cloud / DevSecOps Architect** (Sep 2023–Aug 2024): Led large-scale migration from on-premises data centers to AWS and Azure, with landing zones, secure CI/CD, cloud governance, disaster recovery, and cost optimization.
+- **Coral-io / Icade — DevOps / SRE Consultant** (Aug 2022–Aug 2023): Built CI/CD and observability systems, migrated workloads from vSphere to Kubernetes on LXD, and operated databases, secrets, and distributed storage.
+- **Avito.ma / Frontier Digital Ventures — DevOps / Cloud Engineer** (Sep 2021–Aug 2022): Operated AWS and EKS with Terraform, CloudFormation, and Ansible; worked on Kafka streams, monitoring, and machine-learning applications.
+- **DXC Technology — BI / Big Data Engineer intern** (Feb–Jun 2021): Built an IT monitoring and reporting solution with Zabbix, VMware ESXi, Kubernetes, Grafana, and the Elastic stack.
+- **ENSET Mohammedia — AI Software Developer intern** (Oct–Dec 2020): Developed a Python, Flask, and TensorFlow chatbot with a React Native mobile client.
+- **Abboud Foodstuff Trading — Full Stack Engineer intern** (Jul–Aug 2020): Built a stock-management application with NestJS and React.
+- **Barid-Al-Maghrib — Project Team Manager intern** (Jul–Aug 2019): Led a three-person team developing a furniture-management web application.
 
-I have gained valuable experience in different roles that have allowed me to become well-versed in the DevOps lifecycle. My expertise lies in cloud computing, with a focus on AWS, as well as other cloud providers such as GCP and Azure. I have led initiatives to migrate legacy infrastructure to the cloud, managed Kubernetes deployments, and established CI/CD pipelines.
+## Technical toolkit
 
+- **Cloud and infrastructure:** AWS, Azure, GCP, IBM Cloud, DigitalOcean, VMware vSphere / ESXi, LXD, networking, migration, disaster recovery, and cloud cost management.
+- **Containers and automation:** Kubernetes (EKS, AKS, GKE), Docker, Helm, Docker Swarm, Kubernetes Operators, service mesh, Terraform / HCP Terraform, Ansible / AWX, AWS CloudFormation, and Azure ARM.
+- **Delivery and GitOps:** GitLab CI/CD, Jenkins, GitHub Actions, Azure DevOps, FluxCD, Spinnaker, Octopus Deploy, Nexus, and JFrog.
+- **SRE and observability:** SLIs/SLOs, incident response, ServiceNow, Opsgenie, Prometheus, Grafana, Mimir, Tempo, Alloy, VictoriaMetrics, Dynatrace, Zabbix, Loki, ELK, CloudWatch, and Azure Monitor.
+- **Security:** HashiCorp Vault, AWS Secrets Manager, cert-manager, Trivy, OWASP ZAP, SonarQube, tfsec, TFLint, SAST/DAST, AWS Inspector, and Azure security and compliance services.
+- **Data and AI:** Apache Airflow, Kafka, Spark, Hadoop, MLflow, Kubeflow, TensorFlow, PyTorch, computer vision, and analytics.
+- **Software and storage:** Python, Bash, PowerShell, Go, Java, JavaScript / Node.js, React, Spring Boot, FastAPI, Flask, PostgreSQL, Redis, MongoDB, Elasticsearch, Ceph, Longhorn, OpenEBS, S3, Azure Blob Storage, and MinIO.
 
-🚀 **Project Implementation & Management:**
+The [full résumé](https://dadianas.com/resume.pdf?v=2026-10-12) covers additional tools, responsibilities, and projects.
 
-One of my notable achievements was leading the migration of infrastructure from vSphere to Kubernetes clusters deployed in LXD hypervisors. This project significantly improved scalability and robustness. Additionally, I have deployed various DevOps tools in Kubernetes using Terraform, strengthening our tool ecosystem and enhancing infrastructure management.
+## Education and credentials
 
-🔒 **Database Management & Security:**
+- **Engineering degree in Computer Science, Big Data & Cloud Computing**, ENSET Mohammedia (2018–2021).
+- **Preparatory classes in Physics and Engineering Science** (2016–2018).
+- Certifications and courses include Hadoop Foundations, Advanced Python, GCP data lakes and streaming analytics, Huawei Security, Huawei AI, and TCF French.
 
-I have experience in managing various databases, ensuring high availability, security, and scalability. I've used tools like HashiCorp Vault and Ansible-vault for secret management and conducted security testing using SonarQube, Trivy, and OWASP Zap.
+**Languages:** Arabic (native), French (advanced), English (advanced).
 
-🤖 **Scripting & Automation:**
-
-Automation is a key aspect of my work, and I've developed scripts in Python, Bash, and Golang to optimize repetitive tasks. Configuration management with Ansible has been crucial for provisioning, configuration, and deployment automation.
-
-📊 **Monitoring & Reporting:**
-
-I've implemented monitoring and logging solutions such as Loki, Prometheus, and Grafana to ensure continuous system health monitoring. Additionally, I've configured storage using solutions like Rook Ceph, GlusterFS, and Longhorn for high-performance distributed storage.
-
-🌐 **Soft Skills & Languages:**
-
-In addition to technical skills, I value soft skills like flexibility, creativity, and patience. I have experience in effective team management and am multilingual, fluent in English, French, and Arabic.
-
-🤝 **Open to Collaborations:**
-
-I'm enthusiastic about collaborating on innovative projects and exploring new technologies. Feel free to reach out to me through LinkedIn or Email.
-
-📫 **How to Reach Me:**
-
-- LinkedIn: [Anas Dadi](https://www.linkedin.com/in/dadianas/)
-- Email: [dadi.anas@hotmail.fr](mailto:dadi.anas@hotmail.fr)
-- Phone: +33 681421585
-
----
-
-<h2 align="center">GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DadiAnas&show_icons=true&hide_border=true" alt="GitHub Stats">
-</p>
-
-
----
-
-<h2 align="center">Find Me on the Web</h2>
-
-<p align="center">
-  <a href="https://anas.dadispace.com">
-    <img alt="dadispace" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-  </a>
-  <a href="https://www.linkedin.com/in/dadianas/">
-    <img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>
-</p>
-
----
-
-<h2 align="center">Check Out My Blogs</h2>
-
-- [Big Data Technologies Resume](https://www.linkedin.com/pulse/big-data-technologies-resume-anas-dadi/)
-
-Let's connect and shape the future together! 😁✌
-
-**Don't forget to explore my repositories and give them a star!** 👇
-
-:star: From [Anas Dadi](https://github.com/dadianas)
-
-</div>
+I am based in Paris and open to hybrid or fully remote permanent roles and freelance engagements via umbrella employment. Reach me through [LinkedIn](https://www.linkedin.com/in/dadianas/) or [email](mailto:dadi.anas@hotmail.fr).
